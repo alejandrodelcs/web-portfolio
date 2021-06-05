@@ -1,3 +1,0 @@
-Portofolio 
-
-Mi portfolio personal.
