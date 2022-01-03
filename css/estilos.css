@@ -3,7 +3,7 @@ body{
 }
 
 p{
-    color: #6A6A6A;
+    color: #3b3b3b;
     font-size: 14px;
 }
 
@@ -305,12 +305,19 @@ nav .active{
     color: #0088cc;
 }
 
-footer .fa-github-square{
+footer .fa-github{
     font-size: 30px;
     color: black;
+    border: 0px;
+    height: 32px;
+    width: 32px;
+    text-align: center;
+    padding: 8px 0 0 0;
+    border-radius: 100px;
+    margin: 0 8px;
 }
 footer .fa-linkedin{
-    color: #ff4a49;
+    color: #054b90;
     font-size: 30px;
     border: 0px;
     height: 32px;
