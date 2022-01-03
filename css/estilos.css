@@ -461,4 +461,22 @@ footer .fa-linkedin{
 
 }
 
+@media only screen 
+   and (max-width : 360px) 
+   and (max-height : 640px) {
+    #sobre-mi .card{
+        width: 150px;
+        height: 150px;
+        border-radius: 5px;
+    }
+}
+
+@media only screen 
+   and (min-width : 768px) {
+    #sobre-mi .card{
+        width: 150px;
+        height: 150px;
+        border-radius: 5px;
+    }
+}
 
